@@ -49,23 +49,4 @@ const users = [
   },
 ];
 
-/**
- Write a function that takes in an array of users and returns the oldest user
- * @param {Object[]} users - An array of users.
- * @returns {number} The full name of the oldest user.
- */
-
-function getOldestUser(usersArr) {
-  let oldestAge = 0;
-  let oldestUser;
-  users.forEach((user) => {
-    if (user.age > oldestAge) {
-      oldestAge = user.age;
-      oldestUser = `${user.firstName} ${user.lastName}`;
-    }
-  });
-
-  return oldestUser;
-}
-
-console.log(getOldestUser(users));
+module.exports = users;
