@@ -6,4 +6,4 @@ Find the date of the office hour you are looking for and there will be a folder 
 
 ## Zoom Links
 
-- [1-14]() passcode:
+- [1-14](https://us06web.zoom.us/rec/share/gc3_cUOxm0tGTKZ-eLPOX_K0roI_ptn7h4SX99w5M7f19O8I3fzOv29-GwA2SqP_.S1RIo_7WHx9Dk8mu) passcode: X8CSWJ.c
