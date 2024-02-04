@@ -16,8 +16,10 @@ Find the date of the office hour you are looking for (above ^ in the files) and 
 
 - [12/17](https://us06web.zoom.us/rec/share/nk7WumjSsTDU2NiblNCtlo7EHP0iE1cFg5CLpx2lQoHb1tfXdfr8oK6JTuuDgiUg.7G60QNv7xbnJI977), passcode: ^Nx5%=28
 
-- [1-14](https://us06web.zoom.us/rec/share/gc3_cUOxm0tGTKZ-eLPOX_K0roI_ptn7h4SX99w5M7f19O8I3fzOv29-GwA2SqP_.S1RIo_7WHx9Dk8mu) passcode: X8CSWJ.c
+- [1-14](https://us06web.zoom.us/rec/share/gc3_cUOxm0tGTKZ-eLPOX_K0roI_ptn7h4SX99w5M7f19O8I3fzOv29-GwA2SqP_.S1RIo_7WHx9Dk8mu), passcode: X8CSWJ.c
 
 - [1-21](https://us06web.zoom.us/rec/share/tIQMeL-2mJPHufJefDMyIVDTmt27nXgQP5T2RehQUap4mb8Fl3Axxo4MpOEJVfL7.O3oX2YjsIgyTPmMk), passcode: i*?nxpw5
 
-- [1-28](https://us06web.zoom.us/rec/share/Fj4TpxylVMC89MhSN8FSDQ4xshGnBrtkcnRGtpnBNV9hzOKthWFShwC9uFxplZYz.xOwo7gny6btJOFRb) passcode: vJ*&LZ2k
+- [1-28](https://us06web.zoom.us/rec/share/Fj4TpxylVMC89MhSN8FSDQ4xshGnBrtkcnRGtpnBNV9hzOKthWFShwC9uFxplZYz.xOwo7gny6btJOFRb), passcode: vJ*&LZ2k
+
+- [2-4](https://us06web.zoom.us/rec/share/f893avWf-FSTvPLX6fVLFB62j3Wcay6tWAYdiYixjAaSwg0EgOqAx0pUHzDuNnNU.ZBjHaxsPZxzSzdeB), passcode:  %4FA7y=h
