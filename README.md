@@ -25,3 +25,5 @@ Find the date of the office hour you are looking for (above ^ in the files) and 
 - [2-4](https://us06web.zoom.us/rec/share/f893avWf-FSTvPLX6fVLFB62j3Wcay6tWAYdiYixjAaSwg0EgOqAx0pUHzDuNnNU.ZBjHaxsPZxzSzdeB), passcode:  %4FA7y=h
 
 - [2-11](https://us06web.zoom.us/rec/share/VziUu9Ie0Jh5oIRmoAew0rPA4YZXz6sLRoc3RsfRTe1LDsSYVdKLSmDMIV1Irjwy.MeNXVY5qSQTVjafN), passcode: luU9$q5f
+
+- [2-18](https://us06web.zoom.us/rec/share/fEsxP6la96KtUHEVBrpSKOGjTf1wSGm3gIrdLLPUEfQ5FOcUHHgMTytEBFQJRoJ4.t-pUofyWqLulrghP?pwd=xubdcEf2rxvyssKlKbDt3y3peq5wydKp), passcode: Gg$8qqE+
