@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import { IoMdClose } from "react-icons/io";
 import './App.css'
 
-const names = ['Aaron', 'Moka', 'Nadia', 'Rizel', 'Jean']
+const names = ['Aaron', 'Moka', 'Nadia', 'Rizel', 'Jean', 'Khyla', 'Nicole', 'Kubra', 'Erika'];
 
 function App() {
   const [count, setCount] = useState(0)
@@ -17,7 +17,7 @@ function App() {
 
   const toggleNames = () => {
     setName(names[count]);
-    setCount((count + 1) % 5);
+    setCount((count + 1) % names.length);
   }
 
   const addOne = () => {
